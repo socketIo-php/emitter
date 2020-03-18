@@ -1,0 +1,2 @@
+# emitter
+Event emitter component
