@@ -1,0 +1,18 @@
+{
+  "name": "socketio-php/emitter",
+  "description": "event emitter",
+  "type": "library",
+  "require": {
+    "php": ">=7.1.22"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Emitter\\": "src/",
+      "EmitterTest\\": "tests/"
+    }
+  },
+  "license": "MIT"
+}
